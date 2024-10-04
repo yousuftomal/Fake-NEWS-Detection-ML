@@ -53,20 +53,20 @@ The model is evaluated using metrics such as accuracy, precision, recall, and F1
 
 The key metrics from the evaluation are as follows:
 
-Accuracy: 93%
+Accuracy: 93% <br>
 Precision:
    - Fake News (0): 0.93
    - True News (1): 0.93
-Recall:
+<br> Recall:
    - Fake News (0): 0.94
    - True News (1): 0.92
-F1-Score:
+<br>F1-Score:
    - Fake News (0): 0.93
    - True News (1): 0.92
 
 ## Confusion Matrix
 
-[[4396  300]
+[[4396  300]<br>
  [ 347 3937]]
 
 
