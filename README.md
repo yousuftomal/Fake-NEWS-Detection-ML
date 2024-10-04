@@ -54,14 +54,15 @@ The model is evaluated using metrics such as accuracy, precision, recall, and F1
 The key metrics from the evaluation are as follows:
 
 Accuracy: 93% <br>
+
 Precision:
    - Fake News (0): 0.93
-   - True News (1): 0.93
-<br>
+   - True News (1): 0.93<br>
+
 Recall:
    - Fake News (0): 0.94
-   - True News (1): 0.92
-<br>
+   - True News (1): 0.92<br>
+
 F1-Score:
    - Fake News (0): 0.93
    - True News (1): 0.92
