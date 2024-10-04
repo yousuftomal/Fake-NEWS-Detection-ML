@@ -10,7 +10,6 @@ This project implements a machine learning model for detecting fake news article
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -56,14 +55,14 @@ The key metrics from the evaluation are as follows:
 
 Accuracy: 93%
 Precision:
-   Fake News (0): 0.93
-   True News (1): 0.93
+   -Fake News (0): 0.93
+   -True News (1): 0.93
 Recall:
-   Fake News (0): 0.94
-   True News (1): 0.92
+   -Fake News (0): 0.94
+   -True News (1): 0.92
 F1-Score:
-   Fake News (0): 0.93
-   True News (1): 0.92
+   -Fake News (0): 0.93
+   -True News (1): 0.92
 
 ## Confusion Matrix
 
