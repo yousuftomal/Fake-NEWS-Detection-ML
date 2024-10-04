@@ -57,10 +57,12 @@ Accuracy: 93% <br>
 Precision:
    - Fake News (0): 0.93
    - True News (1): 0.93
-<br> Recall:
+<br>
+Recall:
    - Fake News (0): 0.94
    - True News (1): 0.92
-<br>F1-Score:
+<br>
+F1-Score:
    - Fake News (0): 0.93
    - True News (1): 0.92
 
